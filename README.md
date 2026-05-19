@@ -1,4 +1,4 @@
-# SistemaLoginSeguridad
+# Seguridad en Ingeniería de Software
 
 Resumen del proyecto con las 10 actividades de "Seguridad en Ingenieria de Software", mas instrucciones de ejecucion paso a paso.
 
